@@ -98,7 +98,7 @@ export const Footer = () => {
         </div>
 
         <div className="border-t border-gray-800 mt-8 pt-8 flex flex-col md:flex-row justify-between items-center">
-          <p>&copy; {new Date().getFullYear()} Irodori Gems. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Harita Gems. All rights reserved.</p>
           <div className="mt-4 md:mt-0">
             <select
               value={i18n.language}
