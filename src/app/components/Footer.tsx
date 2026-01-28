@@ -13,7 +13,7 @@ export const Footer = () => {
           <div>
             <div className="flex items-center gap-2 mb-4">
               <Diamond className="h-6 w-6 text-purple-400" />
-              <span className="text-xl font-bold text-white"> {t("Gems & Jewelry")}</span>
+              <span className="text-xl font-bold text-white"> {t("Harita")}</span>
             </div>
             <p className="text-sm mb-4">
               {t("Your trusted source for exquisite gemstones and fine jewelry. Quality, elegance, and craftsmanship since 1990.")}

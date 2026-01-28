@@ -6,7 +6,7 @@ export const AboutPage = () => {
     <div className="min-h-screen py-12">
       <div className="container mx-auto px-4">
         <div className="max-w-4xl mx-auto">
-          <h1 className="text-4xl font-bold mb-6">About Irodori Gems</h1>
+          <h1 className="text-4xl font-bold mb-6">About Harita Gems</h1>
           
           <div className="mb-12">
             <img
@@ -18,7 +18,7 @@ export const AboutPage = () => {
 
           <div className="prose prose-lg max-w-none mb-12">
             <p className="text-lg text-gray-700 leading-relaxed mb-4">
-              For over three decades, Irodori Gems has been at the forefront of fine jewelry craftsmanship, 
+              For over three decades, Harita Gems has been at the forefront of fine jewelry craftsmanship, 
               bringing you the world's most exquisite gemstones and timeless designs.
             </p>
             <p className="text-lg text-gray-700 leading-relaxed">

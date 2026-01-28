@@ -45,7 +45,7 @@ export const ContactPage = () => {
           <div className="grid md:grid-cols-3 gap-8 mb-12">
             {[
               { icon: Phone, title: 'Phone', info: '+1 (555) 123-4567', subtitle: 'Mon-Fri 9am-6pm' },
-              { icon: Mail, title: 'Email', info: 'info@irodorigems.com', subtitle: '24/7 Support' },
+              { icon: Mail, title: 'Email', info: 'info@haritagems.com', subtitle: '24/7 Support' },
               { icon: MapPin, title: 'Address', info: '123 Jewelry Lane', subtitle: 'New York, NY 10001' },
             ].map((contact) => (
               <Card key={contact.title} className="p-6 text-center">

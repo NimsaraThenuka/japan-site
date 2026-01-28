@@ -67,7 +67,7 @@ export const Header = () => {
                 <div className="absolute inset-0 bg-purple-600 blur-xl opacity-20 group-hover:opacity-40 transition-opacity" />
               </div>
               <span className="text-2xl font-bold bg-gradient-to-r from-purple-600 to-purple-800 bg-clip-text text-transparent">
-                 {t("Gems & Jewelry")}
+                 {t("Harita")}
               </span>
             </Link>
 
